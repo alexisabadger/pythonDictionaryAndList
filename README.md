@@ -1,10 +1,10 @@
 # pythonDictionaryAndList
 This repository is a Python 3 program that imports population data from a txt file and does some stuff.
 
-window.alert('Hello world!);      # wait, that's JavaScript... whatever.
-This is my first gitHub repo, so bear with me.
+    window.alert('Hello world!);      # wait, that's JavaScript... whatever.
+(This is my first gitHub repo, so bear with me.)
 
-myDict = {'year_key': [value0, value1, value2] }
+
 
 This program:
 
